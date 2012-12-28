@@ -32,8 +32,6 @@ Imports = ${datadir}/${QT_DIR_NAME}/imports
 Qml2Imports = ${libdir}/${QT_DIR_NAME}/qml
 Documentation = ${docdir}/${QT_DIR_NAME}
 Data = ${datadir}/${QT_DIR_NAME}
-HostData = ${STAGING_DATADIR}/${QT_DIR_NAME}
-HostSpecPath = ${QMAKE_MKSPEC_PATH}/
 HostBinaries = ${STAGING_BINDIR_NATIVE}
 EOF
 }
